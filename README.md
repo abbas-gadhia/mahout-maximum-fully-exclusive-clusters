@@ -8,3 +8,6 @@ per cluster.
 Each cluster would then be used as inputs to separate classification models.
 
 Building such smaller models helps in keeping things smaller and faster when a large number of categories/items makes training/testing very difficult
+
+For the motivation behind this project, [http://stackoverflow.com/questions/20950429/mahout-naive-bayes-model-very-slow]
+(http://stackoverflow.com/questions/20950429/mahout-naive-bayes-model-very-slow)
